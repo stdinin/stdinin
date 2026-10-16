@@ -2,7 +2,7 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitfffff&bg_color=00000000&color=8b949e&line=2f81f7&point=58a6ff&area=true&area_color=2f81f7&hide_border=true)
 
-# Hi, I'm Wei Xu 👋
+# Hi, I'm stdin 👋
 
 **Software Engineering @ Hohai University · Incoming M.S. @ East China Normal University**
 
