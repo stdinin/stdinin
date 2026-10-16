@@ -1,41 +1,72 @@
-<h1 align="center">Hi, I'm Wei Xu 👋</h1>
+<div align="center">
 
-<p align="center">
-  Software Engineering @ Hohai University · Incoming M.S. @ East China Normal University
-  <br/>
-  Building reliable LLM agents, RAG systems, and software analysis tools.
-</p>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitfffff&bg_color=00000000&color=8b949e&line=2f81f7&point=58a6ff&area=true&area_color=2f81f7&hide_border=true)
 
-<p align="center">
-  <a href="https://gitfffff.github.io/">Blog</a> ·
-  <a href="https://github.com/gitfffff">GitHub</a> ·
-  <a href="https://gitee.com/stdin2">Gitee Archive</a>
-</p>
+# Hi, I'm Wei Xu 👋
+
+**Software Engineering @ Hohai University · Incoming M.S. @ East China Normal University**
+
+Building reliable **LLM agents, RAG systems, and software analysis tools**.
+
+[Blog](https://gitfffff.github.io/) · [GitHub](https://github.com/gitfffff) · [Gitee Archive](https://gitee.com/stdin2)
+
+</div>
 
 ---
 
-## About me
+## About
 
-- 🎓 Undergraduate in **Software Engineering** at **Hohai University**.
-- 🚀 Incoming M.S. student in **Software Engineering** at **East China Normal University** (2027).
-- 🔍 Interested in **LLM Agents**, **Harness Engineering**, **RAG / RAG Security**, **Program Analysis**, and **Software Testing**.
-- 🧩 I enjoy turning research ideas into systems that can be measured, inspected, and reproduced.
+- 🎓 Software Engineering undergraduate at **Hohai University**
+- 🚀 Incoming M.S. student at **East China Normal University** (2027)
+- 🔍 Focused on **LLM Agents · Harness Engineering · RAG Security · Program Analysis · Software Testing**
+- 🧩 Interested in turning research ideas into **measurable, inspectable, reproducible systems**
 
-## Selected work
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [ZhengHeng-Gov-Agent](https://github.com/gitfffff/ZhengHeng-Gov-Agent)
-A trustworthy RAG / Agent system for multi-department knowledge services, with retrieval evaluation, evidence sufficiency verification, and harness-oriented engineering.
+
+Trustworthy RAG / Agent system for multi-department knowledge services, with retrieval evaluation, evidence sufficiency verification, and harness-oriented engineering.
+
+`RAG` `Agent` `Evaluation` `Harness`
+
+</td>
+<td width="50%" valign="top">
 
 ### [SmartLibraryAdmin-AI](https://github.com/gitfffff/SmartLibraryAdmin-AI)
-A RAG-based knowledge and resource generation system built around structured retrieval, PostgreSQL / pgvector, document parsing, reranking, and editable generated content.
+
+RAG-based knowledge and resource generation system with structured retrieval, PostgreSQL / pgvector, document parsing, reranking, and editable generated content.
+
+`Spring Boot` `PostgreSQL` `pgvector` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [SLISE_dev](https://github.com/gitfffff/SLISE_dev)
+
 Research-oriented work on smart-contract vulnerability detection, static analysis, symbolic execution, candidate ranking, and LLM-assisted verification.
 
+`Program Analysis` `Smart Contract` `LLM`
+
+</td>
+<td width="50%" valign="top">
+
 ### [webagent](https://github.com/gitfffff/webagent)
+
 Explorations around web agents, browser task execution, and practical agent workflows.
 
-## Tech stack
+`Agent` `Browser Automation` `Tool Use`
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -47,15 +78,12 @@ Explorations around web agents, browser task execution, and practical agent work
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## Current focus
+## Current Focus
 
-- Reliable **Agent runtime / harness** design
-- **RAG evaluation**, evidence quality, and abstention
-- **Agent & RAG security**
-- **Program analysis** and trustworthy software engineering
+`Reliable Agents` · `Harness Engineering` · `RAG Evaluation` · `Agent Security` · `Program Analysis`
 
 ---
 
 <p align="center">
-  <i>GitHub is now my primary home. Older projects may still remain on Gitee as mirrors or archives.</i>
+  <sub>GitHub is my primary home. Older projects may remain on Gitee as mirrors or archives.</sub>
 </p>
