@@ -16,10 +16,10 @@ Building reliable **LLM agents, RAG systems, and software analysis tools**.
 
 ## About
 
-- 🎓 Software Engineering undergraduate at **Hohai University**
-- 🚀 Incoming M.S. student at **East China Normal University** (2027)
-- 🔍 Focused on **LLM Agents · Harness Engineering · RAG Security · Program Analysis · Software Testing**
-- 🧩 Interested in turning research ideas into **measurable, inspectable, reproducible systems**
+-  Software Engineering undergraduate at **Hohai University**
+-  Incoming M.S. student at **East China Normal University** (2027)
+-  Focused on **LLM Agents · Harness Engineering · RAG Security · Program Analysis · Software Testing**
+-  Interested in turning research ideas into **measurable, inspectable, reproducible systems**
 
 ## Featured Projects
 
