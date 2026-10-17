@@ -8,7 +8,7 @@
 
 Building reliable **LLM agents, RAG systems, and software analysis tools**.
 
-[Blog](https://gitfffff.github.io/) · [GitHub](stdinin.github.io) · [Gitee Archive](https://gitee.com/stdin2)
+[Blog](stdinin.github.io) · [GitHub](https://github.com/stdinin/) · [Gitee Archive](https://gitee.com/stdin2)
 
 </div>
 
